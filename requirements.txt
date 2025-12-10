@@ -1,4 +1,5 @@
 kagglehub
-pandas
 scikit-learn
 xgboost
+optuna
+optuna-integration[xgboost]
