@@ -4,3 +4,6 @@ pandas
 xgboost
 optuna
 optuna-integration[xgboost]
+plotly
+nbformat
+matplotlib

@@ -1,0 +1,7 @@
+{
+    "sender": "Account Services Team <admin-support-882@secure-alert-notification-update.net>",
+    "receiver": "victim@example.com",
+    "date": "2023-11-11 03:15:00",
+    "subject": "URGENT: Your account will be suspended within 24 hours",
+    "body": "Dear User, We detected an unauthorized login attempt from an unknown IP address (Russia). To protect your funds, we have temporarily limited your access. You must verify your identity immediately to restore full access. If you do not verify within 24 hours, your account will be permanently closed. Click here to verify: http://bit.ly/secure-login-883"
+}
