@@ -15,7 +15,7 @@ cd phishguard
 pip install -r requirements.txt
 ```
 
-3. Open and run the Jupyter notebook to build model.
+3. Open and run the Jupyter notebook to build model (A sample email from each class is included).
 
 ## Usage
 
@@ -30,7 +30,7 @@ pip install -r requirements.txt
 }
 ```
 
-2. Run the included classification script (A sample email from each class is included):
+2. Run the included classification script:
 ```bash
 python phishguard_predict.py sample_phish.json
 ```
