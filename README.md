@@ -2,7 +2,7 @@
 
 A machine learning-based phishing email detection system using XGBoost.
 
-### Setup
+## Setup
 
 1. Clone this repository:
 ```bash
@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 3. Open and run the Jupyter notebook to build model.
 
-### Usage
+## Usage
 
 1. Store emails in a JSON file with the following format:
 ```json
