@@ -15,11 +15,11 @@ cd phishguard
 pip install -r requirements.txt
 ```
 
-3. Open and run the Jupyter notebook to build model (A sample email from each class is included).
+3. Open and run the Jupyter notebook to build model.
 
 ## Usage
 
-1. Store emails in a JSON file with the following format:
+1. Store emails in a JSON file with the following format (A sample email from each class is included):
 ```json
 {
     "sender": "...",
